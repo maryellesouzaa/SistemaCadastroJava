@@ -1,8 +1,6 @@
-🌸 Sobre o Projeto
+# 🌸 Sobre o Projeto
 
 Este projeto é um sistema de login desenvolvido em Java, utilizando Swing para a interface gráfica e PostgreSQL como banco de dados. O sistema permite que usuários façam login e, caso autenticados, sejam redirecionados para a tela de cadastro de produtos.
-
-
 
 ✨ Tecnologias Utilizadas
 
@@ -16,8 +14,7 @@ Este projeto é um sistema de login desenvolvido em Java, utilizando Swing para 
 
 • Apache Netbeans IDE (Pode ser usado Eclipse ou IntelliJ)
 
-
-
+ 
 💻 Configuração do Banco de Dados
 
 1. Instale o PostgreSQL e crie um banco de dados:
@@ -41,8 +38,6 @@ private static final String URL = "jdbc:postgresql://localhost:5432/erp_aula";
 private static final String USER = "seu_usuario";
 private static final String PASSWORD = "sua_senha";
 ```
-
-
 
 🌼 Como Executar o Projeto
 
